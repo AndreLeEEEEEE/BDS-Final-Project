@@ -1,0 +1,6 @@
+# epochs = 5
+# n_estimators = 1500
+# max_depth = 50
+# confident_threshold = 0.70
+
+# final accuracy - 71.08%
