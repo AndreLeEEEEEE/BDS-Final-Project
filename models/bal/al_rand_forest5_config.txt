@@ -1,0 +1,10 @@
+n_estimators = 1000
+criterion="log_loss"
+max_depth = 50
+n_queries = 10
+
+Features are percentages
+~12% of the total unlabeled data was queried
+
+Final Train score: 94.93%
+Final Test score: 85.54%
