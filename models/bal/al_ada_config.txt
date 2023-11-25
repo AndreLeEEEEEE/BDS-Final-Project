@@ -1,0 +1,10 @@
+n_estimators = 1000
+learning_rate = 0.1
+estimator = DecisionTreeClassifier
+n_queries = 10
+runtime = 10m 21s
+
+~12% of the total unlabeled data was queried
+
+Final Train score: 65.39%
+Final Test score: 47.59%
