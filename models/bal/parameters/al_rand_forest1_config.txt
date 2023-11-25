@@ -2,5 +2,10 @@ n_estimators = 1000
 criterion="log_loss"
 max_depth = 50
 n_queries = 5
+runtime = 5m 52s
 
 ~6% of the total unlabeled data was queried
+145 total queries
+
+Final Train score: 82.93%
+Final Test score: 60.24%
