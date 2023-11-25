@@ -1,6 +1,0 @@
-n_estimators = 1000
-criterion="log_loss"
-max_depth = 50
-n_queries = 5
-
-~6% of the total unlabeled data was queried

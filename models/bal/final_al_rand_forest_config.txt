@@ -1,1 +1,0 @@
-Final accuracy on all data: 95.03%

@@ -1,0 +1,7 @@
+n_queries = 10
+runtime = 0.5s
+
+~12% of the total unlabeled data was queried
+
+Final Train score: 79.41%
+Final Test score: 74.09%

@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 env/
-data/
+data/dataset
 uninstall.txt
